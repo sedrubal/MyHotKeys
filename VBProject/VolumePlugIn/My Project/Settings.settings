@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="VolUpHK" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">Strg+Umschalttaste+Up</Value>
+    </Setting>
+    <Setting Name="VolDownHK" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">Strg+Umschalttaste+Down</Value>
+    </Setting>
+    <Setting Name="MuteHK" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">Strg+Umschalttaste+M</Value>
+    </Setting>
+    <Setting Name="HKDelay" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Demo2HotKey" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">Strg+Alt+Umschalttaste+S</Value>
+    </Setting>
+    <Setting Name="DemoHotKey" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">Strg+Alt+Umschalttaste+D</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
