@@ -1,6 +1,11 @@
 MyHotKeys
 =========
 
-A program to set own key cominations to trigger actions.
+This program is **EOL** ;)
+==========================
 
-**Info**: This program is in an unsueable state. I'll rework it soon.
+A program to set own key combinations to trigger actions.
+
+**Info**: This program is in an unsueable state.
+
+LICENSE: GPLv3
